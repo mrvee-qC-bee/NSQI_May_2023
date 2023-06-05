@@ -1,4 +1,4 @@
-# NSQI_May_2023
+# NSQI_2023
 
 Welcome to the **NQCH Softserve Incubator Qiskit Workshop repository**! This repository contains all the materials and resources for the Day 1 and Week 3 of the workshop track, which will be held on 22 May, 2023 and 06 June, 2023 at National University of Singapore, QEP Teaching lab.
 
